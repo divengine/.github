@@ -32,5 +32,7 @@ We welcome contributions from the community! Whether it's reporting issues, subm
 Thank you for being a part of Divengine Open Source. Let's innovate together! 🌐
 
 Best regards,
+
 [@rafageist](https://github.com/rafageist)
+
 Owner, Divengine Software Solutions
