@@ -35,4 +35,4 @@ Best regards,
 
 [@rafageist](https://github.com/rafageist)
 
-Owner, Divengine Software Solutions
+Director at Divengine Software Solutions
