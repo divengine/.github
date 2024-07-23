@@ -24,6 +24,7 @@ Explore our diverse range of open-source projects, each designed to empower PHP 
 - [divengine/ways](https://github.com/divengine/ways): Dynamic Backend Routing
 - [divengine/orm](https://github.com/divengine/orm): Flexible PHP Object Relational Mapping
 - [divengine/matrix](https://github.com/divengine/matrix): Dynamic Matrix Manipulation in PHP
+- [divengine/functions](https://github.com/divengine/functions): Useful functions to develop with PHP
 
 ## Contributing
 
