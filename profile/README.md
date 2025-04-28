@@ -1,5 +1,7 @@
 # Divengine Open Source 🚀
 
+[![committers.top badge](https://org-badge.committers.top/suriname_private/divengine.svg)](https://org-badge.committers.top/suriname_private/divengine)
+
 Welcome to Divengine Open Source – a division of [Divengine Software Solutions](https://divengine.sr), a legal entity registered in [Suriname](https://wikipedia.org/wiki/Suriname) under the [Chamber of Commerce](https://kkf.sr). We are excited to share with you the open-source projects developed under this umbrella.
 
 ## About Divengine Open Source
