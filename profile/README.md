@@ -1,41 +1,43 @@
-# Divengine Open Source 🚀
+# Divengine Software Solutions
 
-[![committers.top badge](https://org-badge.committers.top/suriname_private/divengine.svg)](https://org-badge.committers.top/suriname_private/divengine)
+Welcome to **Divengine Software Solutions** – an open-source initiative dedicated to building and sharing software projects with the global developer community.  
 
-Welcome to Divengine Open Source – a division of [Divengine Software Solutions](https://divengine.sr), a legal entity registered in [Suriname](https://wikipedia.org/wiki/Suriname) under the [Chamber of Commerce](https://kkf.sr). We are excited to share with you the open-source projects developed under this umbrella.
+Divengine is **not a company or legal entity**, but a community-driven project that carries forward years of software engineering experience into open-source contributions.
 
-## About Divengine Open Source
+## About Divengine
 
-Divengine Open Source Ecosystem is dedicated to creating and sharing innovative open-source solutions for the development community. This branch of Divengine Software Solutions operates on a non-profit basis, aiming to provide freely accessible tools and libraries that enhance PHP development and empower developers worldwide.
+The **Divengine ecosystem** is focused on creating innovative, free, and accessible tools for developers. Our primary focus began with PHP, but our mission extends to any technology that helps developers solve real-world challenges efficiently.  
+
+Everything here is released as open source, with the goal of empowering individuals, teams, and communities to learn, build, and grow.
 
 ## Our Mission
 
-- **Collaboration:** Foster a collaborative environment where developers can contribute, share insights, and collectively enhance the quality of our projects.
-  
-- **Innovation:** Drive innovation in PHP development by introducing novel concepts and robust solutions that address real-world challenges.
-
-- **Community Feedback:** Embrace and encourage community feedback to improve our projects continuously. Your insights and suggestions are invaluable.
+- **Collaboration:** Foster a space where developers can contribute, share insights, and improve projects together.  
+- **Innovation:** Explore and deliver novel concepts and robust solutions for software development.  
+- **Community Feedback:** Learn from and embrace feedback to continuously refine and evolve our work.  
 
 ## Projects
 
-Explore our diverse range of open-source projects, each designed to empower PHP developers and contribute to a dynamic web development ecosystem. Whether it's dynamic template engines, PHP-to-JavaScript mapping, NoSQL databases, dynamic routing, or flexible object-relational mapping – our projects aim to provide versatile tools for your development needs.
+We maintain a growing collection of open-source projects, ranging from lightweight utilities to larger frameworks. Some highlights include:
 
-- [divengine/div](https://github.com/divengine/div): Dynamic Template Engine
-- [divengine/ajaxmap](https://github.com/divengine/ajaxmap): PHP to JavaScript Mapping
-- [divengine/nodes](https://github.com/divengine/nodes): PHP NoSQL Database
-- [divengine/ways](https://github.com/divengine/ways): Dynamic Backend Routing
-- [divengine/orm](https://github.com/divengine/orm): Flexible PHP Object Relational Mapping
-- [divengine/matrix](https://github.com/divengine/matrix): Dynamic Matrix Manipulation in PHP
-- [divengine/functions](https://github.com/divengine/functions): Useful functions to develop with PHP
+- [divengine/div](https://github.com/divengine/div): Dynamic Template Engine  
+- [divengine/ajaxmap](https://github.com/divengine/ajaxmap): PHP to JavaScript Mapping  
+- [divengine/nodes](https://github.com/divengine/nodes): PHP NoSQL Database  
+- [divengine/ways](https://github.com/divengine/ways): Dynamic Backend Routing  
+- [divengine/orm](https://github.com/divengine/orm): Flexible PHP Object Relational Mapping  
+- [divengine/matrix](https://github.com/divengine/matrix): Dynamic Matrix Manipulation in PHP  
+- [divengine/functions](https://github.com/divengine/functions): Useful PHP Functions  
 
 ## Contributing
 
-We welcome contributions from the community! Whether it's reporting issues, submitting pull requests, or providing feedback, your involvement helps us grow and improve. Check out our individual project repositories for specific contribution guidelines.
+We welcome contributions from everyone.  
+Whether you are reporting issues, submitting pull requests, or proposing new ideas, your participation helps shape the future of Divengine.
 
-Thank you for being a part of Divengine Open Source. Let's innovate together! 🌐
+Check out each project’s repository for specific contribution guidelines.
 
-Best regards,
+---
 
-[@rafageist](https://github.com/rafageist)
+Thank you for being part of **Divengine Software Solutions**.  
+Let’s innovate together.
 
-Director at Divengine Software Solutions
+— [@rafageist](https://github.com/rafageist)
